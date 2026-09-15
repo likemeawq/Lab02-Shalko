@@ -1,0 +1,14 @@
+C:\Users\Student_09\Documents\Lab02-Shalko\bin\Debug\net10.0\Lab02-Shalko.exe
+C:\Users\Student_09\Documents\Lab02-Shalko\bin\Debug\net10.0\Lab02-Shalko.deps.json
+C:\Users\Student_09\Documents\Lab02-Shalko\bin\Debug\net10.0\Lab02-Shalko.runtimeconfig.json
+C:\Users\Student_09\Documents\Lab02-Shalko\bin\Debug\net10.0\Lab02-Shalko.dll
+C:\Users\Student_09\Documents\Lab02-Shalko\bin\Debug\net10.0\Lab02-Shalko.pdb
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.AssemblyInfoInputs.cache
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.AssemblyInfo.cs
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.csproj.CoreCompileInputs.cache
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.dll
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\refint\Lab02-Shalko.dll
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.pdb
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.genruntimeconfig.cache
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\ref\Lab02-Shalko.dll
