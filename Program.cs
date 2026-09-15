@@ -69,6 +69,6 @@ Console.WriteLine();
 Console.WriteLine("Ввод чисел: TryParse");
 Console.Write("Введите количество прочитанных книг засеместр: ");
 string booksInput = Console.ReadLine();
-bool wasSuccessful = int.TryParse(booksInput, out intbooksCount);
+bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
 Console.WriteLine($"Удалось преобразовать: {wasSuccessful}");
 Console.WriteLine($"Значение переменной booksCount:{booksCount}");
