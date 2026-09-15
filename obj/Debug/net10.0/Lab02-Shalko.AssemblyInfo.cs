@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Shalko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9370aec321b4206e8908ae6a32bb6bf7f88799a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2c05a1521a365d576d0cc79bb15e671b98853b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Shalko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Shalko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
