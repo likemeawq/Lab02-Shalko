@@ -12,3 +12,4 @@ C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\refint\Lab02-Shalko
 C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.pdb
 C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.genruntimeconfig.cache
 C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\ref\Lab02-Shalko.dll
+C:\Users\Student_09\Documents\Lab02-Shalko\obj\Debug\net10.0\Lab02-Shalko.sourcelink.json
